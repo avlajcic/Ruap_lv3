@@ -30,7 +30,7 @@ to register.</p>
  //TODO: Update the values for $host, $user, $pwd, and $db
  //using the values you retrieved earlier from the Azure Portal.
  $host = "127.0.0.1";
- $user = "azure@localhost";
+ $user = "armando.vlajcic@live.com";
  $pwd = "";
  $db = "vlajcic_lv";
  // Connect to database.
