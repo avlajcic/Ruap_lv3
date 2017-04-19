@@ -29,10 +29,12 @@ to register.</p>
  // DB connection info
  //TODO: Update the values for $host, $user, $pwd, and $db
  //using the values you retrieved earlier from the Azure Portal.
- $host = "127.0.0.1";
- $user = "armando.vlajcic@live.com";
- $pwd = "";
+ $host = "127.0.0.1:56044";
+ $user = "azure";
+ $pwd = "6#vWHD_$";
  $db = "vlajcic_lv";
+
+ //Database=localdb;Data Source=127.0.0.1:56044;User Id=azure;Password=6#vWHD_$
  // Connect to database.
  try {
  $conn = new PDO( "mysql:host=$host;dbname=$db", $user, $pwd);
