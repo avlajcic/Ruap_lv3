@@ -18,7 +18,7 @@ td { padding: 0.25em 2em 0.25em 0em; border: 0 none; }
 </head>
 <body>
 <h1>Register here!</h1>
-<p>Fill in your name and email address, then click <strong>Submit</strong>
+<p>Fill in your name and email address, then click <strong>Submita</strong>
 to register.</p>
 <form method="post" action="index.php" enctype="multipart/form-data" >
  Name <input type="text" name="name" id="name"/></br>
