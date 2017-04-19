@@ -20,7 +20,7 @@ AUTO_INCREMENT, PRIMARY KEY(id), name VARCHAR(30), email
 VARCHAR(30), date DATE);
 ";
 
- $stmt = $conn->prepare($sql_insert);
+ $stmt = $conn->prepare($sql_create);
 
  $stmt->execute();
 
