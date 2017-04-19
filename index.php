@@ -32,7 +32,7 @@ to register.</p>
  $host = "127.0.0.1:56044";
  $user = "azure";
  $pwd = "6#vWHD_$";
- $db = "vlajcic_lv";
+ $db = "localdb";
 
  //Database=localdb;Data Source=127.0.0.1:56044;User Id=azure;Password=6#vWHD_$
  // Connect to database.
